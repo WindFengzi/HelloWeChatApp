@@ -1,0 +1,5 @@
+<!--pages/my/first.wxml-->
+<view>
+  <text>This is my pages</text>
+</view>
+<text>pages/my/first.wxml</text>
